@@ -19,7 +19,7 @@ zp_regen_time "5.0" // Seconds before health points are regenerated
 **zombieplague**<br />
 **hamsandwich**<br />
 **fakemeta**<br />
-**fun
+**fun**
 
 <br />
 
